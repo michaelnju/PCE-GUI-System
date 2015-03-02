@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/开发软件/java开发环境/eclipse-java-kepler-SR1-win32-x86_64/eclipse/jfreechart-1.0.16/jfreechart-1.0.16/lib/jcommon-1.0.20.jar"/>
+	<classpathentry kind="lib" path="E:/开发软件/java开发环境/eclipse-java-kepler-SR1-win32-x86_64/eclipse/jfreechart-1.0.16/jfreechart-1.0.16/lib/jfreechart-1.0.16.jar"/>
+	<classpathentry kind="lib" path="E:/开发软件/java开发环境/eclipse-java-kepler-SR1-win32-x86_64/eclipse/jfreechart-1.0.16/jfreechart-1.0.16/lib/jfreechart-1.0.16-experimental.jar"/>
+	<classpathentry kind="lib" path="E:/开发软件/java开发环境/eclipse-java-kepler-SR1-win32-x86_64/eclipse/jfreechart-1.0.16/jfreechart-1.0.16/lib/jfreechart-1.0.16-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/michael/Desktop/ToEric/ToEric/ToEric/java project file/PCE system/lib/jcommon-1.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/michael/Desktop/ToEric/ToEric/ToEric/java project file/PCE system/lib/jfreechart-1.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/michael/Desktop/ToEric/ToEric/ToEric/java project file/PCE system/lib/jfreechart-1.0.16-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/michael/Desktop/ToEric/ToEric/ToEric/java project file/PCE system/lib/jfreechart-1.0.16-swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
